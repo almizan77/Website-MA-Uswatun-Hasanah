@@ -1,0 +1,6 @@
+{
+  "name": "PPDB MA Uswatun Hasanah",
+  "description": "Website resmi MA Uswatun Hasanah. Temukan informasi profil, program unggulan, prestasi, kegiatan siswa, fasilitas, berita, dan SPMB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
